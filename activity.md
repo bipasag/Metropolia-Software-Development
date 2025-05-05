@@ -1,1 +1,1 @@
-echo "# Metropolia-Software-Development" 
+echo "Metropolia-Software-Development" 
